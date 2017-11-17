@@ -1,6 +1,6 @@
 # Climate Predictor
 
-Climate predictor is a java component that will predict the weather factors (temperature, pressure, humidity and weather condition) corresponds to location based on historic data.
+Climate predictor is a java component that will predict the weather factors (temperature, pressure, humidity and weather condition) corresponds to a location, based on historical data.
 
 ## Table of contents
  
@@ -100,16 +100,16 @@ $ java -jar target/Climatepredictor.jar
 ### 4.Output
 
 ```sh
-Sydney|-33.87,151.21,24.54|2017-11-17T22:00:00Z|Normal|+22.43|1013.94|62.62
-Melbourne|-37.82,144.98,7.5|2017-11-17T22:00:00Z|Show|+14.71|1011.38|77.79
-Perth|-31.95,115.86,16.38|2017-11-17T22:00:00Z|Normal|+24.79|1017.05|51.64
-GoldCoast|-28.02,153.4,1.23|2017-11-17T22:00:00Z|Normal|+25.89|1013.77|60.17
-Adelaide|-34.92,138.62,40.47|2017-11-17T22:00:00Z|Show|+19.32|1013.22|49.07
-Canberra|-35.28,149.13,566.76|2017-11-17T22:00:00Z|Show|+18.18|1012.45|64.25
-Tuggeranong|-35.42,149.09,586.03|2017-11-17T22:00:00Z|Show|+17.51|1012.26|64.66
-Penrith|-33.75,150.7,27.25|2017-11-17T22:00:00Z|Normal|+22.18|0.0|67.98
-Newcastle|-32.89,151.7,29.44|2017-11-17T22:00:00Z|Normal|+22.27|0.0|76.31
-Brisbane|-27.47,153.03,26.54|2017-11-17T22:00:00Z|Normal|+27.19|1013.12|50.23
+Sydney|-33.87,151.21,24.54|2018-06-18T06:00:00Z|Rain|+10.76|62.34|1024.09
+Melbourne|-37.82,144.98,7.5|2018-06-18T06:00:00Z|Snow|+8.4|79.19|1029.11
+Perth|-31.95,115.86,16.38|2018-06-18T06:00:00Z|Rain|+12.34|22.64|1018.02
+GoldCoast|-28.02,153.4,1.23|2018-06-18T06:00:00Z|Snow|+17.84|88.39|1022.39
+Adelaide|-34.92,138.62,40.47|2018-06-18T06:00:00Z|Snow|+9.33|91.09|1032.45
+Canberra|-35.28,149.13,566.76|2018-06-18T06:00:00Z|Snow|+1.49|90.86|1026.98
+Tuggeranong|-35.42,149.09,586.03|2018-06-18T06:00:00Z|Snow|+2.92|135.86|1026.74
+Penrith|-33.75,150.7,27.25|2018-06-18T06:00:00Z|Snow|+8.55|96.02|0.0
+Newcastle|-32.89,151.7,29.44|2018-06-18T06:00:00Z|Snow|+10.56|84.93|0.0
+Brisbane|-27.47,153.03,26.54|2018-06-18T06:00:00Z|Snow|+16.97|78.65|1022.79
 ```
 
 
