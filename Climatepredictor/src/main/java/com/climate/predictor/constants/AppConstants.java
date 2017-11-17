@@ -69,7 +69,7 @@ public class AppConstants {
 	public static final String temperatureHot = "Hot";
 
 	/** The Constant SNOW_STRING. */
-	public static final String SNOW_STRING = "Show";
+	public static final String SNOW_STRING = "Snow";
 
 	/** The Constant RAIN_STRING. */
 	public static final String RAIN_STRING = "Rain";
