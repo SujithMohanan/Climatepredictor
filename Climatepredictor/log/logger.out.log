@@ -1,0 +1,76 @@
+2017-11-17 06:57:16,132 INFO [App:68] - Started Execution
+2017-11-17 06:57:16,144 INFO [DateUtil:54] - Enter date and time in the format yyyy-MM-dd HH
+2017-11-17 06:57:16,147 INFO [DateUtil:60] - For example, it is now 2017-11-18 06
+2017-11-17 06:57:59,887 INFO [ConsoleInputUtil:59] - Date : Mon Jun 18 06:00:00 IST 2018
+2017-11-17 06:57:59,895 INFO [FileUtil:79] - CSV file parsed successfullly
+2017-11-17 06:58:02,049 INFO [ConsoleInputUtil:70] - API call : https://maps.googleapis.com/maps/api/geocode/json?address=Sydney%2C+New+South+Wales&output=json&key=AIzaSyBfdF6fddPy-mLOdM8JMuk2ZfcoHM8HQrU
+2017-11-17 06:58:02,191 INFO [ConsoleInputUtil:99] - API call : https://maps.googleapis.com/maps/api/elevation/json?locations=-33.8688197%2C151.2092955&output=json&key=AIzaSyBSlvWQGW3UY2l0XhaPZMAYpgRGrd_Ek7M
+2017-11-17 06:58:02,412 INFO [ConsoleInputUtil:128] - API call : https://maps.googleapis.com/maps/api/timezone/json?location=-33.8688197%2C151.2092955&timestamp=1510882082&output=json&key=AIzaSyDC7UbI45wrOJ4S0yqq8rCVZ3Uj258axPA
+2017-11-17 06:58:03,293 INFO [ConsoleInputUtil:70] - API call : https://maps.googleapis.com/maps/api/geocode/json?address=Melbourne+%28Olympic+Park%29%2C+Victoria&output=json&key=AIzaSyBfdF6fddPy-mLOdM8JMuk2ZfcoHM8HQrU
+2017-11-17 06:58:03,435 INFO [ConsoleInputUtil:99] - API call : https://maps.googleapis.com/maps/api/elevation/json?locations=-37.8203855%2C144.9799848&output=json&key=AIzaSyBSlvWQGW3UY2l0XhaPZMAYpgRGrd_Ek7M
+2017-11-17 06:58:03,579 INFO [ConsoleInputUtil:128] - API call : https://maps.googleapis.com/maps/api/timezone/json?location=-37.8203855%2C144.9799848&timestamp=1510882083&output=json&key=AIzaSyDC7UbI45wrOJ4S0yqq8rCVZ3Uj258axPA
+2017-11-17 06:58:04,574 INFO [ConsoleInputUtil:70] - API call : https://maps.googleapis.com/maps/api/geocode/json?address=Perth%2C+Western+Australia&output=json&key=AIzaSyBfdF6fddPy-mLOdM8JMuk2ZfcoHM8HQrU
+2017-11-17 06:58:04,708 INFO [ConsoleInputUtil:99] - API call : https://maps.googleapis.com/maps/api/elevation/json?locations=-31.9505269%2C115.8604572&output=json&key=AIzaSyBSlvWQGW3UY2l0XhaPZMAYpgRGrd_Ek7M
+2017-11-17 06:58:04,836 INFO [ConsoleInputUtil:128] - API call : https://maps.googleapis.com/maps/api/timezone/json?location=-31.9505269%2C115.8604572&timestamp=1510882084&output=json&key=AIzaSyDC7UbI45wrOJ4S0yqq8rCVZ3Uj258axPA
+2017-11-17 06:58:05,855 INFO [ConsoleInputUtil:70] - API call : https://maps.googleapis.com/maps/api/geocode/json?address=Gold+Coast%2C+Queensland&output=json&key=AIzaSyBfdF6fddPy-mLOdM8JMuk2ZfcoHM8HQrU
+2017-11-17 06:58:05,996 INFO [ConsoleInputUtil:99] - API call : https://maps.googleapis.com/maps/api/elevation/json?locations=-28.016667%2C153.4&output=json&key=AIzaSyBSlvWQGW3UY2l0XhaPZMAYpgRGrd_Ek7M
+2017-11-17 06:58:06,139 INFO [ConsoleInputUtil:128] - API call : https://maps.googleapis.com/maps/api/timezone/json?location=-28.016667%2C153.4&timestamp=1510882086&output=json&key=AIzaSyDC7UbI45wrOJ4S0yqq8rCVZ3Uj258axPA
+2017-11-17 06:58:07,133 INFO [ConsoleInputUtil:70] - API call : https://maps.googleapis.com/maps/api/geocode/json?address=Adelaide+%28Kent+Town%29%2C+South+Australia&output=json&key=AIzaSyBfdF6fddPy-mLOdM8JMuk2ZfcoHM8HQrU
+2017-11-17 06:58:07,301 INFO [ConsoleInputUtil:99] - API call : https://maps.googleapis.com/maps/api/elevation/json?locations=-34.920278%2C138.619167&output=json&key=AIzaSyBSlvWQGW3UY2l0XhaPZMAYpgRGrd_Ek7M
+2017-11-17 06:58:07,435 INFO [ConsoleInputUtil:128] - API call : https://maps.googleapis.com/maps/api/timezone/json?location=-34.920278%2C138.619167&timestamp=1510882087&output=json&key=AIzaSyDC7UbI45wrOJ4S0yqq8rCVZ3Uj258axPA
+2017-11-17 06:58:08,093 INFO [ConsoleInputUtil:70] - API call : https://maps.googleapis.com/maps/api/geocode/json?address=Canberra%2C+Australian+Capital+Territory&output=json&key=AIzaSyBfdF6fddPy-mLOdM8JMuk2ZfcoHM8HQrU
+2017-11-17 06:58:08,236 INFO [ConsoleInputUtil:99] - API call : https://maps.googleapis.com/maps/api/elevation/json?locations=-35.2809368%2C149.1300092&output=json&key=AIzaSyBSlvWQGW3UY2l0XhaPZMAYpgRGrd_Ek7M
+2017-11-17 06:58:08,354 INFO [ConsoleInputUtil:128] - API call : https://maps.googleapis.com/maps/api/timezone/json?location=-35.2809368%2C149.1300092&timestamp=1510882088&output=json&key=AIzaSyDC7UbI45wrOJ4S0yqq8rCVZ3Uj258axPA
+2017-11-17 06:58:09,373 INFO [ConsoleInputUtil:70] - API call : https://maps.googleapis.com/maps/api/geocode/json?address=Tuggeranong%2C+Australian+Capital+Territory&output=json&key=AIzaSyBfdF6fddPy-mLOdM8JMuk2ZfcoHM8HQrU
+2017-11-17 06:58:09,512 INFO [ConsoleInputUtil:99] - API call : https://maps.googleapis.com/maps/api/elevation/json?locations=-35.4244%2C149.0888&output=json&key=AIzaSyBSlvWQGW3UY2l0XhaPZMAYpgRGrd_Ek7M
+2017-11-17 06:58:09,686 INFO [ConsoleInputUtil:128] - API call : https://maps.googleapis.com/maps/api/timezone/json?location=-35.4244%2C149.0888&timestamp=1510882089&output=json&key=AIzaSyDC7UbI45wrOJ4S0yqq8rCVZ3Uj258axPA
+2017-11-17 06:58:10,651 INFO [ConsoleInputUtil:70] - API call : https://maps.googleapis.com/maps/api/geocode/json?address=Penrith%2C+New+South+Wales&output=json&key=AIzaSyBfdF6fddPy-mLOdM8JMuk2ZfcoHM8HQrU
+2017-11-17 06:58:10,801 INFO [ConsoleInputUtil:99] - API call : https://maps.googleapis.com/maps/api/elevation/json?locations=-33.75%2C150.7&output=json&key=AIzaSyBSlvWQGW3UY2l0XhaPZMAYpgRGrd_Ek7M
+2017-11-17 06:58:10,935 INFO [ConsoleInputUtil:128] - API call : https://maps.googleapis.com/maps/api/timezone/json?location=-33.75%2C150.7&timestamp=1510882090&output=json&key=AIzaSyDC7UbI45wrOJ4S0yqq8rCVZ3Uj258axPA
+2017-11-17 06:58:11,612 INFO [ConsoleInputUtil:70] - API call : https://maps.googleapis.com/maps/api/geocode/json?address=Newcastle+University%2C+New+South+Wales&output=json&key=AIzaSyBfdF6fddPy-mLOdM8JMuk2ZfcoHM8HQrU
+2017-11-17 06:58:11,770 INFO [ConsoleInputUtil:99] - API call : https://maps.googleapis.com/maps/api/elevation/json?locations=-32.8927718%2C151.7041775&output=json&key=AIzaSyBSlvWQGW3UY2l0XhaPZMAYpgRGrd_Ek7M
+2017-11-17 06:58:11,901 INFO [ConsoleInputUtil:128] - API call : https://maps.googleapis.com/maps/api/timezone/json?location=-32.8927718%2C151.7041775&timestamp=1510882091&output=json&key=AIzaSyDC7UbI45wrOJ4S0yqq8rCVZ3Uj258axPA
+2017-11-17 06:58:12,492 INFO [ConsoleInputUtil:70] - API call : https://maps.googleapis.com/maps/api/geocode/json?address=Brisbane%2C+Queensland&output=json&key=AIzaSyBfdF6fddPy-mLOdM8JMuk2ZfcoHM8HQrU
+2017-11-17 06:58:12,703 INFO [ConsoleInputUtil:99] - API call : https://maps.googleapis.com/maps/api/elevation/json?locations=-27.4697707%2C153.0251235&output=json&key=AIzaSyBSlvWQGW3UY2l0XhaPZMAYpgRGrd_Ek7M
+2017-11-17 06:58:12,882 INFO [ConsoleInputUtil:128] - API call : https://maps.googleapis.com/maps/api/timezone/json?location=-27.4697707%2C153.0251235&timestamp=1510882092&output=json&key=AIzaSyDC7UbI45wrOJ4S0yqq8rCVZ3Uj258axPA
+2017-11-17 06:58:15,132 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201705/text/IDCJDW2124.201705.csv
+2017-11-17 06:58:15,771 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201706/text/IDCJDW2124.201706.csv
+2017-11-17 06:58:16,730 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201705/text/IDCJDW3033.201705.csv
+2017-11-17 06:58:17,290 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201706/text/IDCJDW3033.201706.csv
+2017-11-17 06:58:18,011 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201705/text/IDCJDW6111.201705.csv
+2017-11-17 06:58:18,651 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201706/text/IDCJDW6111.201706.csv
+2017-11-17 06:58:19,292 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201705/text/IDCJDW4050.201705.csv
+2017-11-17 06:58:19,931 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201706/text/IDCJDW4050.201706.csv
+2017-11-17 06:58:20,419 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201705/text/IDCJDW5002.201705.csv
+2017-11-17 06:58:20,985 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201706/text/IDCJDW5002.201706.csv
+2017-11-17 06:58:21,501 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201705/text/IDCJDW2801.201705.csv
+2017-11-17 06:58:22,169 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201706/text/IDCJDW2801.201706.csv
+2017-11-17 06:58:22,650 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201705/text/IDCJDW2802.201705.csv
+2017-11-17 06:58:23,138 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201706/text/IDCJDW2802.201706.csv
+2017-11-17 06:58:23,771 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201705/text/IDCJDW2111.201705.csv
+2017-11-17 06:58:24,257 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201706/text/IDCJDW2111.201706.csv
+2017-11-17 06:58:25,050 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201705/text/IDCJDW2098.201705.csv
+2017-11-17 06:58:25,691 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201706/text/IDCJDW2098.201706.csv
+2017-11-17 06:58:26,331 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201705/text/IDCJDW4019.201705.csv
+2017-11-17 06:58:26,841 INFO [ConsoleInputUtil:149] - API call : http://www.bom.gov.au/climate/dwo/201706/text/IDCJDW4019.201706.csv
+2017-11-17 06:58:26,872 INFO [FileUtil:102] - Sydney|-33.87,151.21,24.54|2018-06-18T06:00:00Z|Rain|+10.76|62.34|1024.09
+
+2017-11-17 06:58:26,872 INFO [FileUtil:102] - Melbourne|-37.82,144.98,7.5|2018-06-18T06:00:00Z|Show|+8.4|79.19|1029.11
+
+2017-11-17 06:58:26,873 INFO [FileUtil:102] - Perth|-31.95,115.86,16.38|2018-06-18T06:00:00Z|Rain|+12.34|22.64|1018.02
+
+2017-11-17 06:58:26,873 INFO [FileUtil:102] - GoldCoast|-28.02,153.4,1.23|2018-06-18T06:00:00Z|Show|+17.84|88.39|1022.39
+
+2017-11-17 06:58:26,873 INFO [FileUtil:102] - Adelaide|-34.92,138.62,40.47|2018-06-18T06:00:00Z|Show|+9.33|91.09|1032.45
+
+2017-11-17 06:58:26,873 INFO [FileUtil:102] - Canberra|-35.28,149.13,566.76|2018-06-18T06:00:00Z|Show|+1.49|90.86|1026.98
+
+2017-11-17 06:58:26,873 INFO [FileUtil:102] - Tuggeranong|-35.42,149.09,586.03|2018-06-18T06:00:00Z|Show|+2.92|135.86|1026.74
+
+2017-11-17 06:58:26,873 INFO [FileUtil:102] - Penrith|-33.75,150.7,27.25|2018-06-18T06:00:00Z|Show|+8.55|96.02|0.0
+
+2017-11-17 06:58:26,873 INFO [FileUtil:102] - Newcastle|-32.89,151.7,29.44|2018-06-18T06:00:00Z|Show|+10.56|84.93|0.0
+
+2017-11-17 06:58:26,873 INFO [FileUtil:102] - Brisbane|-27.47,153.03,26.54|2018-06-18T06:00:00Z|Show|+16.97|78.65|1022.79
+
+2017-11-17 06:58:26,874 INFO [App:110] - Finished Execution
