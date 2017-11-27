@@ -96,13 +96,13 @@ public class AppConstants {
 	public static final String timeZoneAPIURL = "https://maps.googleapis.com/maps/api/timezone/json?location=";
 
 	/** The Constant geoCodeAPIKey. */
-	public static final String geoCodeAPIKey = "AIzaSyBfdF6fddPy-mLOdM8JMuk2ZfcoHM8HQrU";
+	public static final String geoCodeAPIKey = "<GEOCODE_API_KEY>";
 
 	/** The Constant elevationAPIKey. */
-	public static final String elevationAPIKey = "AIzaSyBSlvWQGW3UY2l0XhaPZMAYpgRGrd_Ek7M";
+	public static final String elevationAPIKey = "<ELEVATION_API_KEY>";
 
 	/** The Constant timeZoneAPIKey. */
-	public static final String timeZoneAPIKey = "AIzaSyDC7UbI45wrOJ4S0yqq8rCVZ3Uj258axPA";
+	public static final String timeZoneAPIKey = "<TIMEZONE_API_KEY>";
 
 	/** The Constant andOutput. */
 	public static final String andOutput = "&output=";
